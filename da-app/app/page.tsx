@@ -240,7 +240,7 @@ const Home = () => {
             </Link>
           </div>
         </div>
-        
+
         {/* How It Works Section - Updated layout */}
                <div className="w-full bg-black py-20">
           <div className="max-w-2xl mx-auto px-8 sm:px-8">
